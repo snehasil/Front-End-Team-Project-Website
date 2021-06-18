@@ -1,11 +1,11 @@
 ﻿body {
     background-color: #1F2123;
-    font-family: proxima-nova, sans-serif;
-    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    color: lightskyblue;
 }
 
 h2 {
-    text-allign: center;
+    text-align: center;
 }
 
 #price {
@@ -14,4 +14,7 @@ h2 {
 
 #menuheader {
     text-align: center;
+    color: aliceblue;
 }
+
+//menu white
