@@ -1,0 +1,60 @@
+﻿#title{
+    text-align: center;
+}
+p {
+    color: lightskyblue;
+    font-size: 16px;
+}
+body {
+    background-color: #1F2123;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+﻿.header {
+    background-color: #1F2123;
+}
+
+.nav {
+    background-color: #1F2123;
+}
+
+.nav-links {
+    background-color: #1F2123;
+}
+
+    .nav-links:hover {
+        background-color: #6BD0FF;
+        transition: background-color 250ms;
+    }
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+.button {
+    background-color: #1A74E2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 250ms;
+    border-radius: 8px;
+}
+
+    .button:hover {
+        background-color: #6BD0FF;
+    }
+
