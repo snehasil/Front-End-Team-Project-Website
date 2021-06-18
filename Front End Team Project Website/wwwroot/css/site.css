@@ -1,6 +1,36 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+/*
+Name: Bright Navy Blue
+Hex: #1A74E2
+RGB: (26, 116, 226)
+CMYK: 0.884, 0.486, 0, 0.113
+
+PICTON BLUE	
+Name: Picton Blue
+Hex: #3FA0EF
+RGB: (63, 160, 239)
+CMYK: 0.736, 0.330, 0, 0.062
+
+MAYA BLUE	
+Name: Maya Blue
+Hex: #6BD0FF
+RGB: (107, 208, 255)
+
+CMYK: 0.580, 0.184, 0, 0
+RAISIN BLACK	
+Name: Raisin Black
+Hex: #1F2123
+RGB: (31, 33, 35)
+CMYK: 0.114, 0.057, 0, 0.862
+
+CHINESE BLACK	
+Name: Chinese Black
+Hex: #101010
+RGB: (16, 16, 16)
+CMYK: 0, 0, 0, 0.937*/
+
 a.navbar-brand {
   white-space: normal;
   text-align: center;
@@ -69,3 +99,5 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+

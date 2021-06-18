@@ -1,0 +1,17 @@
+﻿body {
+    background-color: #1F2123;
+    font-family: proxima-nova, sans-serif;
+    color: whitesmoke;
+}
+
+h2 {
+    text-allign: center;
+}
+
+#price {
+    text-align: right;
+}
+
+#menuheader {
+    text-align: center;
+}
