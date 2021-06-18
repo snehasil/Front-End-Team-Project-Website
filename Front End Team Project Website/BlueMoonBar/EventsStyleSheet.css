@@ -1,0 +1,13 @@
+﻿#title{
+    text-align: center;
+}
+.footer{
+   margin-left: auto;
+   margin-right: auto;
+}
+
+body {
+    /*background-color: #125D98;
+    color: sandybrown;*/
+    font-family: 'Times New Roman', Times, serif;
+}
