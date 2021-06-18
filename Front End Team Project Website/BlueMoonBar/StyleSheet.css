@@ -1,5 +1,4 @@
 ﻿body {
-    background-color: #1F2123;
     font-family: 'Times New Roman', Times, serif;
     color: lightskyblue;
 }
@@ -77,3 +76,6 @@ h1 {
     .button:hover {
         background-color: #6BD0FF;
     }
+.background-main {
+    background-color: #1F2123;
+}

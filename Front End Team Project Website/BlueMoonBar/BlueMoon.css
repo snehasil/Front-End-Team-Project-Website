@@ -1,4 +1,7 @@
-﻿.header {
+﻿body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.header {
     background-color: #101010;
 }
 .nav {
