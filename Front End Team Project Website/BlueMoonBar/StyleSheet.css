@@ -1,0 +1,20 @@
+﻿body {
+    background-color: #1F2123;
+    font-family: 'Times New Roman', Times, serif;
+    color: lightskyblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+#price {
+    text-align: right;
+}
+
+#menuheader {
+    text-align: center;
+    color: aliceblue;
+}
+
+//menu white
