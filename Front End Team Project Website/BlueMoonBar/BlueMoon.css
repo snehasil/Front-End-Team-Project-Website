@@ -1,11 +1,11 @@
-﻿.header{
-    background-color: #1F2123;
+﻿.header {
+    background-color: #101010;
 }
 .nav {
-    background-color: #1F2123;
+    background-color: #101010;
 }
 .nav-links {
-    background-color: #1F2123;
+    background-color: #101010;
 }
 .nav-links:hover {
     background-color: #6BD0FF;
@@ -37,7 +37,24 @@ h1 {
     .button:hover {
         background-color: #6BD0FF;
     }
-
+.background-main {
+    background-color: #1F2123;
+}
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
+h5 {
+    color: white;
+}
+th {
+    color: white;
+}
+td {
+    color: white;
+}
 
 
 
