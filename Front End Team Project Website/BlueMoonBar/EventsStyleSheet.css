@@ -1,27 +1,46 @@
+﻿#title{
+    text-align: center;
+}
+p {
+    color: lightskyblue;
+    font-size: 16px;
+}
+body {
+    background-color: #1F2123;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
 ﻿.header {
-    background-color: #101010;
+    background-color: #1F2123;
 }
+
 .nav {
-    background-color: #101010;
+    background-color: #1F2123;
 }
+
 .nav-links {
-    background-color: #101010;
+    background-color: #1F2123;
 }
-.nav-links:hover {
-    background-color: #6BD0FF;
-    transition: background-color 250ms;
-    
-}
+
+    .nav-links:hover {
+        background-color: #6BD0FF;
+        transition: background-color 250ms;
+    }
+
 a:hover {
     text-decoration: none;
     color: black;
 }
+
 a {
     color: white;
 }
+
 h1 {
     color: white;
 }
+
 .button {
     background-color: #1A74E2;
     border: none;
@@ -34,27 +53,8 @@ h1 {
     transition-duration: 250ms;
     border-radius: 8px;
 }
+
     .button:hover {
         background-color: #6BD0FF;
     }
-.background-main {
-    background-color: #1F2123;
-}
-h3 {
-    color: white;
-}
-p {
-    color: white;
-}
-h5 {
-    color: white;
-}
-th {
-    color: white;
-}
-td {
-    color: white;
-}
-
-
 
