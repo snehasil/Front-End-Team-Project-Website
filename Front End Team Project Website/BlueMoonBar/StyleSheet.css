@@ -17,4 +17,63 @@ h2 {
     color: aliceblue;
 }
 
-//menu white
+p {
+    color: aliceblue;
+}
+
+#topheader {
+    text-align: center;
+    color: lightskyblue;
+}
+
+#linktext {
+    color: dodgerblue;
+    text-decoration: underline;
+}
+
+.header {
+    background-color: #1F2123;
+}
+
+.nav {
+    background-color: #1F2123;
+}
+
+.nav-links {
+    background-color: #1F2123;
+}
+
+    .nav-links:hover {
+        background-color: #6BD0FF;
+        transition: background-color 250ms;
+    }
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+.button {
+    background-color: #1A74E2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 250ms;
+    border-radius: 8px;
+}
+
+    .button:hover {
+        background-color: #6BD0FF;
+    }
