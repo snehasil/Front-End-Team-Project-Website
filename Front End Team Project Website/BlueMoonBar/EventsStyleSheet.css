@@ -1,37 +1,17 @@
-﻿body {
+﻿#title{
+    text-align: center;
+}
+p {
+    color: lightskyblue;
+    font-size: 16px;
+}
+body {
     background-color: #1F2123;
     font-family: 'Times New Roman', Times, serif;
-    color: lightskyblue;
-}
-
-h2 {
-    text-align: center;
-}
-
-#price {
-    text-align: right;
-}
-
-#menuheader {
-    text-align: center;
     color: aliceblue;
 }
 
-p {
-    color: aliceblue;
-}
-
-#topheader {
-    text-align: center;
-    color: lightskyblue;
-}
-
-#linktext {
-    color: dodgerblue;
-    text-decoration: underline;
-}
-
-.header {
+﻿.header {
     background-color: #1F2123;
 }
 
@@ -77,3 +57,4 @@ h1 {
     .button:hover {
         background-color: #6BD0FF;
     }
+
